@@ -63,3 +63,5 @@ python react_agent.py
 ---
 
 Built while exploring Agentic AI concepts with Ollama and TinyLlama.
+
+If you find it useful, please consider giving it a ⭐ on GitHub. Your support helps others discover the project and motivates further improvements.
